@@ -1,0 +1,151 @@
+numero,data,cliente,valor,situacao,tipoIntegracao
+48,2023-03-18,Consumidor Final,222.50,Atendido,
+49,2023-03-18,Consumidor Final,79.70,Atendido,
+50,2023-03-18,Consumidor Final,104.00,Atendido,
+51,2023-03-18,Consumidor Final,150.50,Atendido,
+52,2023-03-18,Consumidor Final,79.90,Atendido,
+53,2023-03-18,Consumidor Final,79.90,Atendido,
+54,2023-03-18,Consumidor Final,1147.40,Atendido,
+55,2023-03-18,Consumidor Final,104.80,Atendido,
+56,2023-03-18,Consumidor Final,19.90,Atendido,
+57,2023-03-20,Consumidor Final,124.80,Atendido,
+58,2023-03-20,Consumidor Final,40.40,Atendido,
+59,2023-03-20,Consumidor Final,134.60,Atendido,
+60,2023-03-20,Consumidor Final,202.40,Atendido,
+62,2023-03-20,Consumidor Final,24.90,Atendido,
+64,2023-03-20,Consumidor Final,26.70,Atendido,
+65,2023-03-21,Consumidor Final,480.30,Atendido,
+66,2023-03-21,Consumidor Final,509.35,Atendido,
+67,2023-03-21,Consumidor Final,59.90,Atendido,
+68,2023-03-21,Consumidor Final,250.20,Verificado,
+69,2023-03-21,Consumidor Final,119.40,Atendido,
+70,2023-03-21,Consumidor Final,294.80,Atendido,
+71,2023-03-22,Consumidor Final,13.40,Atendido,
+72,2023-03-22,Ketllen Maidana,42.50,Verificado,WooCommerceWH
+73,2023-03-22,Consumidor Final,116.50,Atendido,
+74,2023-03-22,Consumidor Final,120.70,Atendido,
+75,2023-03-22,Consumidor Final,109.70,Atendido,
+76,2023-03-23,Eduarda Silva,296.80,Verificado,WooCommerceWH
+77,2023-03-23,Consumidor Final,388.90,Atendido,
+78,2023-03-23,Bruna Correa de Abreu,173.51,Verificado,WooCommerceWH
+79,2023-03-23,Ana Paula Rodrigues De Oliveira,119.90,Verificado,WooCommerceWH
+80,2023-03-23,Consumidor Final,162.80,Atendido,
+81,2023-03-23,Pamela Felix,138.00,Atendido,WooCommerceWH
+83,2023-03-23,Priscila Batista de Oliveira,71.90,Cancelado,WooCommerceWH
+84,2023-03-24,Consumidor Final,209.50,Atendido,
+85,2023-03-24,Consumidor Final,71.70,Atendido,
+86,2023-03-24,Ana Azevedo,168.82,Verificado,WooCommerceWH
+87,2023-03-24,Bruna Maria Furtado Xavier,70.71,Verificado,WooCommerceWH
+88,2023-03-25,Consumidor Final,36.80,Verificado,
+89,2023-03-25,Camil Oliveira,82.76,Verificado,WooCommerceWH
+90,2023-03-25,Lucilene Matos,319.41,Verificado,WooCommerceWH
+91,2023-03-26,Ana Luísa Antunes flores,288.93,Atendido,WooCommerceWH
+92,2023-03-26,Carolina Jesus,101.33,Verificado,WooCommerceWH
+93,2023-03-27,Lara Tavares Ramos,248.54,Atendido,WooCommerceWH
+94,2023-03-27,Tamiris Wouters,154.30,Verificado,WooCommerceWH
+95,2023-03-27,Tamiris Wouters,124.90,Atendido,WooCommerceWH
+96,2023-03-27,Edna Moreira,210.84,Verificado,WooCommerceWH
+97,2023-03-27,Consumidor Final,166.10,Atendido,
+98,2023-03-27,Milena catieli Kopp,407.96,Atendido,WooCommerceWH
+99,2023-03-27,Consumidor Final,233.70,Atendido,
+100,2023-03-27,Consumidor Final,476.40,Atendido,
+101,2023-03-27,Samanta Flores,84.20,Verificado,WooCommerceWH
+102,2023-03-28,Mariana Bilhalva,63.80,Verificado,WooCommerceWH
+104,2023-03-29,Adriele Melo,265.97,Verificado,WooCommerceWH
+105,2023-03-29,Evillyn Machado,145.42,Verificado,WooCommerceWH
+106,2023-03-29,Eliana Oliveira Dos Santos,167.60,Atendido,WooCommerceWH
+107,2023-03-29,Jessica Ruaro,143.58,Verificado,WooCommerceWH
+108,2023-03-29,Consumidor Final,168.90,Atendido,
+109,2023-03-29,Consumidor Final,36.90,Atendido,
+110,2023-03-30,Ketlin Corpe da fonseca,132.21,Verificado,WooCommerceWH
+111,2023-03-30,Ana Paula Bao,250.41,Atendido,WooCommerceWH
+112,2023-03-30,Kassia Santos,221.07,Atendido,WooCommerceWH
+113,2023-03-30,Amanda Hilario,136.11,Verificado,WooCommerceWH
+114,2023-03-30,Consumidor Final,120.00,Atendido,
+115,2023-03-31,Consumidor Final,122.60,Atendido,
+116,2023-03-31,EnDeusa Escovaria e esmalteria,281.30,Verificado,WooCommerceWH
+117,2023-03-31,Isadora Vieira Roch,97.90,Verificado,WooCommerceWH
+118,2023-03-31,Consumidor Final,48.40,Atendido,
+119,2023-03-31,Consumidor Final,109.30,Atendido,
+120,2023-03-31,Tais Canterle,85.09,Atendido,WooCommerceWH
+121,2023-04-02,Andressa Calones,110.15,Atendido,WooCommerceWH
+122,2023-04-03,Fernanda Hoff,34.90,Verificado,WooCommerceWH
+123,2023-04-03,Franciele Ribeiro,100.01,Atendido,WooCommerceWH
+124,2023-04-03,Consumidor Final,9.90,Atendido,
+125,2023-04-03,Monike Poerschke,215.13,Verificado,WooCommerceWH
+126,2023-04-03,Consumidor Final,201.10,Atendido,
+128,2023-04-03,Érica Rohenkohl,74.50,Atendido,WooCommerceWH
+127,2023-04-04,Ana carolina Santana,194.75,Atendido,WooCommerceWH
+129,2023-04-04,Carolina Mello Ternus,169.10,Atendido,WooCommerceWH
+130,2023-04-04,Elissandra Rodriguez,190.39,Atendido,WooCommerceWH
+131,2023-04-04,Larissa Andrade,147.38,Atendido,WooCommerceWH
+132,2023-04-04,Isadora Schuler,207.71,Atendido,WooCommerceWH
+133,2023-04-04,Flávia Corcine,228.50,Atendido,WooCommerceWH
+134,2023-04-04,Evillyn Machado,141.80,Atendido,WooCommerceWH
+135,2023-04-04,Sofia Cadore,55.29,Atendido,WooCommerceWH
+136,2023-04-04,Consumidor Final,156.10,Atendido,
+137,2023-04-04,Consumidor Final,375.51,Atendido,
+138,2023-04-04,Consumidor Final,18.40,Atendido,
+139,2023-04-04,Kauany Lopes,198.80,Atendido,WooCommerceWH
+140,2023-04-04,Ingrid Bernardo Wiebbelling,291.74,Atendido,WooCommerceWH
+141,2023-04-04,Evelin Ulrich Gonçalves,511.10,Verificado,WooCommerceWH
+142,2023-04-05,amanda Lehmann,157.70,Atendido,WooCommerceWH
+143,2023-04-05,Bruna Maria Furtado Xavier,356.30,Verificado,WooCommerceWH
+144,2023-04-05,Consumidor Final,49.80,Atendido,
+145,2023-04-06,Larissa erd Righi,188.20,Verificado,WooCommerceWH
+146,2023-04-06,Consumidor Final,171.60,Atendido,
+147,2023-04-06,Consumidor Final,362.71,Atendido,
+148,2023-04-07,Mariana Bilhalva,174.90,Verificado,WooCommerceWH
+150,2023-04-07,Cássia Seibert,99.80,Atendido,WooCommerceWH
+151,2023-04-07,Fabiana Paula Souza,224.43,Atendido,WooCommerceWH
+152,2023-04-07,Consumidor Final,727.70,Atendido,
+154,2023-04-09,Venda Externa,24.90,Atendido,
+155,2023-04-10,Andressa Calones,201.50,Atendido,WooCommerceWH
+156,2023-04-10,Ketlin Corpe da fonseca,149.20,Atendido,WooCommerceWH
+157,2023-04-10,Victoria Demétrio Teixeira,140.72,Atendido,WooCommerceWH
+158,2023-04-11,Renata Taline perine da Silva,257.27,Atendido,WooCommerceWH
+159,2023-04-11,camila de campos quintela,49.80,Verificado,WooCommerceWH
+160,2023-04-11,Gislaine Duarte,271.27,Verificado,WooCommerceWH
+161,2023-04-11,Ana Luísa Flores,66.70,Verificado,WooCommerceWH
+162,2023-04-12,Rosane Goldasz,92.46,Verificado,WooCommerceWH
+163,2023-04-12,Gisele Tais Guisso,425.76,Atendido,WooCommerceWH
+164,2023-04-12,Carine Machado,422.16,Atendido,WooCommerceWH
+165,2023-04-12,Cássia Seibert,413.96,Atendido,WooCommerceWH
+166,2023-04-13,Mônica Medeiros Leite,223.05,Atendido,WooCommerceWH
+167,2023-04-13,Jennifer Pires,147.82,Atendido,WooCommerceWH
+168,2023-04-13,Consumidor Final,24.90,Atendido,
+169,2023-04-13,Consumidor Final,49.80,Atendido,
+171,2023-04-13,Gabrieli Pires,198.45,Atendido,WooCommerceWH
+172,2023-04-13,Paola Azevedo,91.52,Verificado,WooCommerceWH
+173,2023-04-13,Brenda Sartori,48.22,Atendido,WooCommerceWH
+174,2023-04-13,Consumidor Final,67.20,Atendido,
+175,2023-04-13,Eduarda Silva,440.95,Atendido,WooCommerceWH
+176,2023-04-14,Denise Santos,159.90,Atendido,WooCommerceWH
+177,2023-04-14,Byanca Ebertz,81.80,Atendido,WooCommerceWH
+178,2023-04-14,amanda Lehmann,146.60,Atendido,WooCommerceWH
+180,2023-04-14,Raiane Sanatana,187.72,Verificado,WooCommerceWH
+181,2023-04-15,Daiane Fontana De Melo,392.07,Atendido,WooCommerceWH
+182,2023-04-15,Gabriela Santos,124.30,Atendido,WooCommerceWH
+183,2023-04-15,Fernanda Hoff,88.00,Atendido,WooCommerceWH
+184,2023-04-15,Priscila Fialho,73.80,Atendido,WooCommerceWH
+185,2023-04-15,Camila Quintela,94.90,Atendido,WooCommerceWH
+186,2023-04-15,vanessa leal,157.53,Atendido,WooCommerceWH
+187,2023-04-17,Consumidor Final,104.10,Atendido,
+188,2023-04-17,Dâmaris Cardoso,136.99,Atendido,WooCommerceWH
+189,2023-04-17,Greice Rodrigues,77.70,Atendido,WooCommerceWH
+190,2023-04-17,Jonathan Peres,195.77,Atendido,WooCommerceWH
+191,2023-04-17,Juliana Righes,150.50,Atendido,WooCommerceWH
+192,2023-04-17,Gabrielly Campos,61.44,Atendido,WooCommerceWH
+193,2023-04-17,Aline Souza,195.97,Atendido,WooCommerceWH
+194,2023-04-18,Aline Martins,124.90,Atendido,WooCommerceWH
+195,2023-04-18,Bianca Bastos Coelho,420.84,Atendido,WooCommerceWH
+196,2023-04-18,Eduarda Ferreira Muniz,100.80,Atendido,WooCommerceWH
+197,2023-04-18,Hellen Almeida,50.19,Atendido,WooCommerceWH
+198,2023-04-19,Paloma Cortese,169.60,Atendido,WooCommerceWH
+201,2023-04-19,Maiara Gonçalves,81.31,Atendido,WooCommerceWH
+202,2023-04-19,Caroline Cardoso,160.74,Atendido,WooCommerceWH
+203,2023-04-19,Consumidor Final,323.90,Atendido,
+204,2023-04-19,Consumidor Final,296.40,Atendido,
+205,2023-04-19,Cristiana Vitória dos santos campos,234.35,Atendido,WooCommerceWH
+206,2023-04-20,Ana Carolina Costa,145.23,Atendido,WooCommerceWH
+207,2023-04-20,Keidy Soares,153.38,Atendido,WooCommerceWH
